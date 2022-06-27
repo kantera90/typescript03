@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kantera90/typescript03.git",
+  "author": "kantera",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "16.4.13",
+    "typescript": "4.3.5"
+  }
+}
