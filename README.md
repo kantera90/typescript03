@@ -5,7 +5,7 @@ TypeScript力を高める為のプロジェクト
 <br>
 
 ## 教材
-手を動かしながら学ぶTypeScript
+手を動かしながら学ぶTypeScript CHAPTER 0
 
 ## Memo
 clone したら yarn install するべし
